@@ -1,0 +1,21 @@
+.home-popularity-page {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  justify-content: space-around;
+}
+
+.pop-movie-card {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: min-content;
+  width: min-content;
+  padding: 9rem;
+  background-color: black;
+  margin: 1rem;
+}
+
+.movie-title {
+  background-color: rgba(245, 245, 220, 0.449);
+}
